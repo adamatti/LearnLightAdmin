@@ -1,0 +1,9 @@
+Pet project to play with http://lightadmin.org[Light Admin] ( a RAD framework)
+
+### Todo
+* Remove spring xml files (e.g. use groovy?)
+* Remove application.properties (e.g. use groovy?)
+* Use http://lightadmin.org/getting-started/spring-boot/[spring-boot]
+
+### References
+* https://github.com/akhikhl/gretty[Gradle plugin: gretty]

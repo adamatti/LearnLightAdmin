@@ -1,0 +1,2 @@
+run:
+	gradle clean tomcatRun
